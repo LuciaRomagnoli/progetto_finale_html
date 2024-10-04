@@ -73,7 +73,7 @@ h4 {
     padding: 10%;
   }
 
-  #box1 img {
+  #box1 image {
     opacity: 0.25;
   }
 
@@ -173,5 +173,8 @@ footer {
   }
 
   footer .underline {
+    text-decoration: underline;
+  }
+  footer span {
     text-decoration: underline;
   }
