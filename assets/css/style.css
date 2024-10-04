@@ -67,7 +67,7 @@ h4 {
 
 
   #box1 {
-    background-image: url(../images/foto1.jpg);
+    background-image: url(../images/banner.jpg);
     background-position: center;
     background-size: cover;
     padding: 10%;
@@ -160,7 +160,7 @@ footer {
     color: white; 
     background-color: #25a2c3;
     text-align: center;
-    font-size: 14px;
+    font-size: 15px;
     padding-top: 2em;
     padding-bottom: 5em;
     padding-left: 5em;
@@ -177,4 +177,8 @@ footer {
   }
   footer span {
     text-decoration: underline;
+  }
+
+  footer p {
+    opacity: 0.85;
   }
