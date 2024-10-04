@@ -110,6 +110,10 @@ h4 {
     font-weight: 600;
   }
 
+  h6 {
+    font-size: 14px;
+  }
+
   #box3 span {
     font-style: italic;
   }
@@ -125,6 +129,32 @@ h4 {
     padding-bottom: 8%;
   }
 
+  #box4 h4 {
+    padding-top: 3%;
+   }
+
+   #box5 h4 {
+    padding-top: 3%;
+   }
+
+   #box6 h4 {
+    padding-top: 3%;
+   }
+
+   #box4 p {
+    padding-left: 5%;
+    padding-right: 5%;
+   }
+
+   #box5 p {
+    padding-left: 5%;
+    padding-right: 5%;
+   }
+
+   #box6 p {
+    padding-left: 5%;
+    padding-right: 5%;
+   }
 
 footer {
     color: white; 
